@@ -1,0 +1,16 @@
+node_modules/
+out/
+dist/
+*.log
+test-results/
+playwright-report/
+
+# Personal / local files that never belong online
+try.txt
+.env
+.env.*
+*.dump
+config.json
+*.pem
+*.key
+.vscode/

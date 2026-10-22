@@ -1,0 +1,20 @@
+{
+  "kind": "books#volume",
+  "id": "jsmnGoogle02",
+  "volumeInfo": {
+    "title": "Jonathan Strange & Mr Norrell",
+    "authors": [
+      "Susanna Clarke"
+    ],
+    "publisher": "Bloomsbury",
+    "publishedDate": "2004",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_13",
+        "identifier": "9780747570554"
+      }
+    ],
+    "pageCount": 782,
+    "language": "en"
+  }
+}

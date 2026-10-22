@@ -1,0 +1,54 @@
+[
+  {
+    "match": "openlibrary.org/search.json",
+    "file": "ol-search-piranesi.json"
+  },
+  {
+    "match": "openlibrary.org/works/OL20893680W/ratings.json",
+    "file": "ol-ratings-OL20893680W.json"
+  },
+  {
+    "match": "openlibrary.org/works/OL20893680W/editions.json",
+    "file": "ol-editions-OL20893680W.json"
+  },
+  {
+    "match": "openlibrary.org/works/OL20893680W.json",
+    "file": "ol-work-OL20893680W.json"
+  },
+  {
+    "match": "openlibrary.org/isbn/9781526622426.json",
+    "file": "ol-isbn-9781526622426.json"
+  },
+  {
+    "match": "openlibrary.org/books/",
+    "file": "ol-edition-OL29486417M.json"
+  },
+  {
+    "match": "openlibrary.org/authors/OL1387961A.json",
+    "file": "ol-author-OL1387961A.json"
+  },
+  {
+    "match": "www.googleapis.com/books/v1/volumes/pirnGoogle01",
+    "file": "google-volume-pirnGoogle01.json"
+  },
+  {
+    "match": "www.googleapis.com/books/v1/volumes/jsmnGoogle02",
+    "file": "google-volume-jsmnGoogle02.json"
+  },
+  {
+    "match": "www.googleapis.com/books/v1/volumes?q=",
+    "file": "google-search-piranesi.json"
+  },
+  {
+    "match": "covers.openlibrary.org/a/",
+    "file": "author-7284260.jpg"
+  },
+  {
+    "match": "covers.openlibrary.org/b/",
+    "file": "cover-13011435.jpg"
+  },
+  {
+    "match": "books.google.com/books/content",
+    "file": "cover-13011435.jpg"
+  }
+]

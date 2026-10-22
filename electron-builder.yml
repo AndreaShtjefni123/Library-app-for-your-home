@@ -1,0 +1,30 @@
+appId: com.homelibrary.app
+productName: Home Library
+directories:
+  buildResources: build
+  output: dist
+files:
+  - out/**/*
+  - package.json
+  - '!**/*.map'
+asar: true
+# The app must never phone home: no auto-update feed is configured.
+publish: null
+win:
+  icon: build/icon.png
+  target:
+    - nsis
+    - portable
+nsis:
+  oneClick: false
+  perMachine: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: always
+  createStartMenuShortcut: true
+  shortcutName: Home Library
+  uninstallDisplayName: Home Library
+  deleteAppDataOnUninstall: false
+  # File names avoid the apostrophe.
+  artifactName: HomeLibrary-Setup-${version}.${ext}
+portable:
+  artifactName: HomeLibrary-Portable-${version}.${ext}

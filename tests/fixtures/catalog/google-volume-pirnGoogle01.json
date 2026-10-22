@@ -1,0 +1,36 @@
+{
+  "kind": "books#volume",
+  "id": "pirnGoogle01",
+  "volumeInfo": {
+    "title": "Piranesi",
+    "authors": [
+      "Susanna Clarke"
+    ],
+    "publisher": "Bloomsbury Publishing",
+    "publishedDate": "2020-09-15",
+    "description": "<p><b>WINNER OF THE WOMEN'S PRIZE FOR FICTION 2021</b></p><p>Piranesi has never thought to question the reality of the House.<br>A house of endless halls &amp; tides.</p>",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_13",
+        "identifier": "9781526622426"
+      },
+      {
+        "type": "ISBN_10",
+        "identifier": "1526622424"
+      }
+    ],
+    "pageCount": 272,
+    "categories": [
+      "Fiction / Fantasy / General",
+      "Fiction / Literary"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 128,
+    "language": "en",
+    "imageLinks": {
+      "thumbnail": "http://books.google.com/books/content?id=pirnGoogle01&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "infoLink": "http://books.google.com/books?id=pirnGoogle01&dq=piranesi",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Piranesi.html?id=pirnGoogle01"
+  }
+}
